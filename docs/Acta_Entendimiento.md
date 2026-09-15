@@ -4,10 +4,10 @@ Fecha: 14 de septiembre de 2026 - Medellín
 Lugar: Reunión virtual - Teams
 
 ## Asistentes:
-- Daniel Zora Zuluaga - Ing. Industrial
-- Alejandra López Franco - Ing. Industrial
-- Karina Johanna Mejia Uparela - Ing. Industrial
-- Lyzt Dayana Simanca Saldarriaga - Ing. Industrial
+* Daniel Zora Zuluaga - Ing. Industrial
+* Alejandra López Franco - Ing. Industrial
+* Karina Johanna Mejia Uparela - Ing. Industrial
+* Lyzt Dayana Simanca Saldarriaga - Ing. Industrial
 
 ## 1. Objetivo:
 Como equipo acordamos desarrollar el proyecto Gestor de PQRS, cumpliendo los requisitos establecidos para el trabajo final y entregando un programa funcional, organizado y comprensible para todos los integrantes.
@@ -23,11 +23,11 @@ Lyzt Dayana Simanca Saldarriaga:	Espera fortalecer sus conocimientos en estadís
 ## 4. Expectativas como equipo
 Como equipo esperamos:
 * Distribuir el trabajo de manera equitativa.
-- Cumplir con las fechas establecidas.
-- Mantener una comunicación constante.
-- Apoyarnos cuando alguno tenga dificultades.
-- Revisar el trabajo antes de cada entrega.
-- Lograr que todos comprendamos el programa.
+* Cumplir con las fechas establecidas.
+* Mantener una comunicación constante.
+* Apoyarnos cuando alguno tenga dificultades.
+* Revisar el trabajo antes de cada entrega.
+* Lograr que todos comprendamos el programa.
 
   ## 5. Acuerdo
 Los integrantes aceptamos trabajar de manera responsable y colaborativa, cumpliendo las actividades que sean asignadas y participando en las diferentes etapas del proyecto.
