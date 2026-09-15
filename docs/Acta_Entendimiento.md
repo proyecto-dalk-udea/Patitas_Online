@@ -22,7 +22,7 @@ Lyzt Dayana Simanca Saldarriaga:	Espera fortalecer sus conocimientos en estadís
 
 ## 4. Expectativas como equipo
 Como equipo esperamos:
-- Distribuir el trabajo de manera equitativa.
+* Distribuir el trabajo de manera equitativa.
 - Cumplir con las fechas establecidas.
 - Mantener una comunicación constante.
 - Apoyarnos cuando alguno tenga dificultades.
