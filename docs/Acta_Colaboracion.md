@@ -9,7 +9,7 @@ Lugar: Medellín - Virtual
 * Karina Johanna Mejía Uparela
 * Lyzt Dayana Simanca Saldarriaga
 
-## 1.Forma de trabajo
+## 1. Forma de trabajo
 El trabajo será distribuido entre los cuatro integrantes de acuerdo con las diferentes actividades del proyecto. Cada integrante será responsable de cumplir con las tareas que le correspondan y todos participaremos en las revisiones y decisiones importantes del proyecto.
 Para organizar el trabajo, tendremos en cuenta las fechas de entrega establecidas y los avances que se vayan realizando durante el desarrollo del programa.
 
