@@ -1,15 +1,24 @@
-# Acta 01 - Entendimiento
-Fecha: 14 sept 2026
-Lugar: Medellín - Virtual
+# ACTA 01 - DE ENTENDIMIENTO DEL PROYECTO
+Proyecto: Gestor-PQRS-UdeA - Huellitas UdeA
+Fecha: 14 de septiembre de 2026 - Medellín
+Lugar: Reunión virtual - Teams
 
-Nosotros, el equipo Gestor-PQRS-UdeA entendemos que:
-1. El proyecto es para gestionar Peticiones, Quejas, Reclamos y Sugerencias de Huellitas UdeA
-2. Si falta 1 acta la nota de la entrega 1 queda en 0.
-3. Todos debemos participar en GitHub con commits.
+## Asistentes:
+- Daniel Zora Zuluaga - Ing. Industrial
+- Alejandra López Franco - Ing. Industrial
+- Karina Johanna Mejia Uparela - Ing. Industrial
+- Lyzt Dayana Simanca Saldarriaga - Ing. Industrial
 
-Firmas:
-- Daniel Zora Zuluaga
-- Alejandra López Franco
-- Karina Johanna Mejia Uparela
-- Lyzt Dayana Simanca Saldarriaga
-Fecha: 14 sept 2026 - Medellín
+## 1. Objetivo:
+Entender el alcance del proyecto Gestor-PQRS para la fundación Huellitas UdeA.
+
+## 2. Entendimiento del Problema:
+La fundación necesita un sistema en Python que clasifique Peticiones, Quejas, Reclamos y Sugerencias de adoptantes y voluntarios.
+
+## 3. Acuerdos:
+- El sistema debe guardar los datos en /data/
+- El código principal irá en /src/main.py
+- Entendemos que si falta un acta en la Entrega 1, la nota será 0.0
+
+## 4. Firmas en constancia:
+Daniel Zora Zuluaga, Alejandra López Franco, Karina Johanna Mejia Uparela, Lyzt Dayana Simanca Saldarriaga
