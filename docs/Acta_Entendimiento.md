@@ -10,15 +10,26 @@ Lugar: Reunión virtual - Teams
 - Lyzt Dayana Simanca Saldarriaga - Ing. Industrial
 
 ## 1. Objetivo:
-Entender el alcance del proyecto Gestor-PQRS para la fundación Huellitas UdeA.
+Como equipo acordamos desarrollar el proyecto Gestor de PQRS, cumpliendo los requisitos establecidos para el trabajo final y entregando un programa funcional, organizado y comprensible para todos los integrantes.
+Nuestro objetivo también es que cada integrante participe en el desarrollo y conozca el funcionamiento general del programa para poder responder por el trabajo durante la sustentación.
 
-## 2. Entendimiento del Problema:
-La fundación necesita un sistema en Python que clasifique Peticiones, Quejas, Reclamos y Sugerencias de adoptantes y voluntarios.
+## 3. Expectativas de los integrantes:
+Daniel Zora Zuluaga:	Espera fortalecer sus conocimientos de programación y aportar al desarrollo de la estructura general del programa.
+Alejandra López Franco:	Espera aprender y mejorar en el desarrollo de validaciones y en la programación del sistema.
+Karina Johanna Mejia Uparela:	Espera adquirir experiencia en el manejo de archivos y contribuir al funcionamiento del programa.
+Lyzt Dayana Simanca Saldarriaga:	Espera fortalecer sus conocimientos en estadísticas, reportes y pruebas del programa.
 
-## 3. Acuerdos:
-- El sistema debe guardar los datos en /data/
-- El código principal irá en /src/main.py
-- Entendemos que si falta un acta en la Entrega 1, la nota será 0.0
+## 4. Expectativas como equipo
+Como equipo esperamos:
+- Distribuir el trabajo de manera equitativa.
+- Cumplir con las fechas establecidas.
+- Mantener una comunicación constante.
+- Apoyarnos cuando alguno tenga dificultades.
+- Revisar el trabajo antes de cada entrega.
+- Lograr que todos comprendamos el programa.
 
-## 4. Firmas en constancia:
+  ## 5. Acuerdo
+Los integrantes aceptamos trabajar de manera responsable y colaborativa, cumpliendo las actividades que sean asignadas y participando en las diferentes etapas del proyecto.
+
+## 6. Firmas en constancia:
 Daniel Zora Zuluaga, Alejandra López Franco, Karina Johanna Mejia Uparela, Lyzt Dayana Simanca Saldarriaga
