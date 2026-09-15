@@ -17,7 +17,7 @@ Para organizar el trabajo, tendremos en cuenta las fechas de entrega establecida
 El principal medio de comunicación será WhatsApp, donde compartiremos información sobre el proyecto, avances, dudas y acuerdos.     
 Para el almacenamiento y desarrollo del código utilizaremos GitHub, donde también organizaremos la documentación y los demás archivos del proyecto.
 
-## 3. Reuniones
+## 3. Reuniones  
 Realizaremos reuniones de acuerdo con las necesidades del proyecto y procuraremos reunirnos una vez por semana para revisar los avances.
 Cuando se acerque una fecha de entrega, podremos realizar reuniones adicionales para revisar que el trabajo esté completo.
 
