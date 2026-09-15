@@ -14,7 +14,7 @@ Para el desarrollo del proyecto Gestor de PQRS, se acuerda la siguiente distribu
 * Daniel Zora Zuluaga: será responsable de la documentación y organización general del proyecto, incluyendo la estructura de las carpetas src/, docs/, images/ y data/.
 * Alejandra López Franco: será responsable del desarrollo de la lógica principal del programa en src/main.py y de la elaboración de las Actas de Entendimiento, Colaboración y Responsabilidad.
 * Karina Johanna Mejía Uparela: será responsable de la gestión de los datos de prueba y de la organización de los archivos de datos en data/, incluyendo los archivos correspondientes a las PQRS.
-* Lyzt Dayana Simanca Saldarriaga: será responsable de la elaboración y organización del README, la licencia del proyecto y la preparación de la presentación final.
+* Lyzt Dayana Simanca Saldarriaga: será responsable de la elaboración y organización del README, la licencia del proyecto y la preparación de la presentación final.                                     
 Aunque cada integrante tiene una responsabilidad principal, todos participarán en la revisión del proyecto, aportarán ideas y deberán conocer el funcionamiento general del programa para la sustentación.
 
 ## 2. Entrega de avances
