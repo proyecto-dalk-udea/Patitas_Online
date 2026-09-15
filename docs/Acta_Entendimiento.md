@@ -15,10 +15,10 @@ Como equipo acordamos desarrollar el proyecto Gestor de PQRS, cumpliendo los req
 Nuestro objetivo también es que cada integrante participe en el desarrollo y conozca el funcionamiento general del programa para poder responder por el trabajo durante la sustentación.
 
 ## 3. Expectativas de los integrantes:
-Daniel Zora Zuluaga:	Espera fortalecer sus conocimientos de programación y aportar al desarrollo de la estructura general del programa.
-Alejandra López Franco:	Espera aprender y mejorar en el desarrollo de validaciones y en la programación del sistema.          
-Karina Johanna Mejia Uparela:	Espera adquirir experiencia en el manejo de archivos y contribuir al funcionamiento del programa.
-Lyzt Dayana Simanca Saldarriaga:	Espera fortalecer sus conocimientos en estadísticas, reportes y pruebas del programa.
+* Daniel Zora Zuluaga:	Espera fortalecer sus conocimientos de programación y aportar al desarrollo de la estructura general del programa.
+* Alejandra López Franco:	Espera aprender y mejorar en el desarrollo de validaciones y en la programación del sistema.          
+* Karina Johanna Mejia Uparela:	Espera adquirir experiencia en el manejo de archivos y contribuir al funcionamiento del programa.
+* Lyzt Dayana Simanca Saldarriaga:	Espera fortalecer sus conocimientos en estadísticas, reportes y pruebas del programa.
 
 ## 4. Expectativas como equipo
 Como equipo esperamos:
