@@ -1,13 +1,25 @@
-# Acta 02 - Colaboracion
-Acuerdos:
-- Nos comunicamos por WhatsApp
-- Reuniones martes y jueves 7pm
-- Si alguien no puede, avisa con 1 dia de anticipacion
-- Todo se sube a GitHub en la rama main
+# ACTA 02 - DE COLABORACIÓN
+Proyecto: Gestor-PQRS-UdeA - Huellitas UdeA
+Fecha: 14 de septiembre de 2026
+Lugar: Medellín - Virtual
 
-- Firmas:
+## Asistentes:
 - Daniel Zora Zuluaga
 - Alejandra López Franco
 - Karina Johanna Mejia Uparela
 - Lyzt Dayana Simanca Saldarriaga
-Fecha: 14 sept 2026 - Medellín
+
+## 1. Objetivo: Definir reglas de trabajo en equipo.
+
+## 2. Acuerdos de Colaboración:
+- Canal oficial: Grupo de WhatsApp y reuniones martes/jueves 7:00 PM.
+- Metodología: Trabajo colaborativo con commits diarios en GitHub.
+- Comunicación: Si alguien no puede asistir, debe avisar con 12 horas de anticipación.
+- Resolución de conflictos: Decisiones por mayoría.
+- Herramientas: GitHub para código, Drive para documentación.
+
+## 3. Compromiso:
+Todos nos comprometemos a participar activamente para cumplir la entrega del viernes.
+
+## Firmas:
+Daniel Zora Zuluaga, Alejandra López Franco, Karina Johanna Mejia Uparela, Lyzt Dayana Simanca Saldarriaga
