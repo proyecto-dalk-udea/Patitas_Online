@@ -24,7 +24,7 @@ Cuando se acerque una fecha de entrega, podremos realizar reuniones adicionales 
 ## 4. Forma de tomar decisiones
 * Las decisiones relacionadas con el proyecto serán conversadas entre los cuatro integrantes.
 * Se buscará llegar a un acuerdo entre todos. Si no se logra un acuerdo, se tomará la decisión mediante votación.
-*Cuando tengamos dudas sobre algún requisito del trabajo, consultaremos al docente.
+* Cuando tengamos dudas sobre algún requisito del trabajo, consultaremos al docente.
 
 ## 5. Resolución de conflictos
 Como equipo nos entendemos bien y mantenemos una buena comunicación entre todos. Hasta el momento no hemos tenido conflictos importantes durante el desarrollo del proyecto.
