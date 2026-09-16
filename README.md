@@ -5,7 +5,7 @@ Proyecto del curso de Ingeniería Industrial - UdeA para gestionar Peticiones, Q
 ##  Integrantes - Ingeniería Industrial
 - Daniel Zora Zuluaga - zoradaniel72
 - Alejandra López Franco
-- Karina Johanna Mejia Uparela
+- Karina Johanna Mejia Uparela - proyecto-dalk-udea
 - Lyzt Dayana Simanca Saldarriaga
 
 ##  Repositorio
