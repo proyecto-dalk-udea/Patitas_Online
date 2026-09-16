@@ -1,7 +1,7 @@
 
 # ACTA 03 - DE RESPONSABILIDAD
-Proyecto: Gestor-PQRS-UdeA - Huellitas UdeA
-Fecha: 14 de septiembre de 2026
+Proyecto:Patitas_Online
+Fecha: 30 de agosto de 2026
 
 ## Asistentes:
 * Daniel Zora Zuluaga
