@@ -1,24 +1,18 @@
-# Gestor-PQRS-UdeA - Huellitas UdeA
 
-Proyecto del curso de Ingeniería Industrial - UdeA para gestionar Peticiones, Quejas, Reclamos y Sugerencias de la fundación de animales.
+##  Integrantes del proyecto
 
-##  Integrantes - Ingeniería Industrial
-- Daniel Zora Zuluaga - zoradaniel72
-- Alejandra López Franco - Aleja-lopez-udea
-- Karina Johanna Mejia Uparela - proyecto-dalk-udea
-- Lyzt Dayana Simanca Saldarriaga - Lyztsimanca05
+* Daniel zora zuluaga:
+31 años de edad, Sede Medellín, 3er semestre de ingeniería industrial.
+Me considero una persona con habilidad para trabajar en grupo, proactivo y con muy buena comunicación mis principales fortalezas son la disciplina y constancia.
 
-##  Repositorio
-https://github.com/proyecto-dalk-udea/Gestor-PQRS-UdeA
+* Alejandra López Franco:
+19 años de edad, Sede Medellín, 4to semestre de ingeniería industrial.
+Soy una persona amable, perseverante, me gusta aprender y asumir nuevos retos. Tengo habilidad para trabajar en equipo y adaptarme fácilmente.
 
-##  Licencia
-MIT License - 2026
+* Karina Johanna Mejia Uparela:
+32 años de edad, Seccional Bajo Cauca, 5to semestre de ingeniería industrial.
+Soy una persona responsable y comprometida. Me caracterizo por mi capacidad de aprendizaje, empatía, paciencia y facilidad para trabajar en equipo.
 
-## Estructura del proyecto
-- /docs/ - Actas del proyecto (Entendimiento, Colaboración, Responsabilidad)
-- /src/ - Código fuente del gestor
-- /data/ - Archivos de prueba PQRS
-- README.md - Documentación del proyecto
-
-## Objetivo
-Crear un sistema en Python que permita registrar y clasificar PQRS para mejorar la atención en Huellitas UdeA.
+* Lyzt Dayan Simanca saldarriga:
+19 años de edad, Seccional bajo Cauca, 5to semestre de ingeniería industrial.
+Me considero una persona proactiva y muy disciplinada para cumplir con mis responsabilidades.
