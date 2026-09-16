@@ -1,6 +1,6 @@
 # ACTA 01 - DE ENTENDIMIENTO DEL PROYECTO
-Proyecto: Gestor-PQRS-UdeA - Huellitas UdeA
-Fecha: 14 de septiembre de 2026 - Medellín
+Proyecto: Patitas_Online
+Fecha: 23 de agosto de 2026 - Medellín
 Lugar: Reunión virtual - Teams
 
 ## Asistentes:
