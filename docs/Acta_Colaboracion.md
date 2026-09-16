@@ -1,6 +1,6 @@
 # ACTA 02 - DE COLABORACIÓN
-Proyecto: Gestor-PQRS-UdeA - Huellitas UdeA
-Fecha: 14 de septiembre de 2026
+Proyecto: Patitas_Online
+Fecha: 29 de agosto de 2026
 Lugar: Medellín - Virtual
 
 ## Asistentes:
