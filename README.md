@@ -15,4 +15,4 @@ Soy una persona responsable y comprometida. Me caracterizo por mi capacidad de a
 
 * Lyzt Dayan Simanca saldarriga:
 19 años de edad, Seccional bajo Cauca, 5to semestre de ingeniería industrial.
-Me considero una persona proactiva y muy disciplinada para cumplir con mis responsabilidades.
+Me considero una persona proactiva y muy disciplinada, responsable para trabajar en grupo
