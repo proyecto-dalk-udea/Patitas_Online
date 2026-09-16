@@ -6,7 +6,7 @@ Proyecto del curso de Ingeniería Industrial - UdeA para gestionar Peticiones, Q
 - Daniel Zora Zuluaga - zoradaniel72
 - Alejandra López Franco - Aleja-lopez-udea
 - Karina Johanna Mejia Uparela - proyecto-dalk-udea
-- Lyzt Dayana Simanca Saldarriaga
+- Lyzt Dayana Simanca Saldarriaga - Lyztsimanca05
 
 ##  Repositorio
 https://github.com/proyecto-dalk-udea/Gestor-PQRS-UdeA
