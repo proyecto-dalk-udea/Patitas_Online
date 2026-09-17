@@ -43,8 +43,8 @@ Se indican los responsables y el periodo estimado para realizar cada actividad
 
 ### Convenciones 
 
-*🟦 Actividades Programada.
-*🟨 Entrega o Actividad de cierre
+* 🟦 Actividades Programada.
+* 🟨 Entrega o Actividad de cierre
 
 El cronograma contempla las entregas establecidas para el proyecto y la participación de todos los integrantes en las actividades de revisión y de seguimiento. 
 
