@@ -18,6 +18,8 @@ El proyecto Patitas Online será desarrollado mediante una planificación organi
 | 11 | Revisión final y preparación para sustentación | Todos | 5 h |
 | | **Total** | | **50 h** |
 
+## 7.2 Cronograma – Diagrama de Gantt
+
 ## 7.3 Presupuesto
 
 El presupuesto del proyecto Patitas Online se establece con base en el
