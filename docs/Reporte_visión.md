@@ -9,3 +9,11 @@ El programa permitiRÁ guardar los datos de las personas que realizan las solici
 ## Objetivo 
 
 Crear un programa en Python que permita registrar y organizar las PQRS que reciba MEPEGA, facilitando el manejo y consulta de la informacion.
+
+## Beneficios 
+
+*Tener la información de las PQRS más organizada.
+*Facilitar el registro de las solicitudes.
+*permitir consultar la información guardada
+*identificar cada solicitud mediante su número de radicado
+*reducir el manejo de la información solamente en papel 
