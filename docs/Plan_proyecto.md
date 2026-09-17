@@ -1,7 +1,7 @@
-# 7. Plan de Proyecto
+# Plan de Proyecto
 El proyecto Patitas Online será desarrollado mediante una planificación organizada de actividades, teniendo en cuenta las responsabilidades asignadas a cada integrante en el Acta 03 de Responsabilidad. Aunque cada integrante tendrá una responsabilidad principal, todos participarán en la revisión, aportarán ideas y deberán conocer el funcionamiento general del programa.
 
-## 7.1 Actividades y responsables
+## 1 Actividades y responsables
 
 | Nº | Actividad | Responsable principal | Horas |
 |---:|---|---|---:|
@@ -18,7 +18,7 @@ El proyecto Patitas Online será desarrollado mediante una planificación organi
 | 11 | Revisión final y preparación para sustentación | Todos | 5 h |
 | | **Total** | | **50 h** |
 
-## 7.2 Cronograma – Diagrama de Gantt
+## 2 Cronograma – Diagrama de Gantt
 
 | Actividad | Responsable | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 | S10 | S11 | S12 | S13 | S14 | S15 | S16 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -37,7 +37,7 @@ El proyecto Patitas Online será desarrollado mediante una planificación organi
 | *Entrega 2* | Todos | | | | | | | | | | | | | | | 🟨 | |
 | *Presentación final* | Todos | | | | | | | | | | | | | | | | 🟨 |
 
-## 7.3 Presupuesto
+## 3 Presupuesto
 
 El presupuesto del proyecto Patitas Online se establece con base en el
 tiempo de práctica de formación invertido por los integrantes del equipo.
