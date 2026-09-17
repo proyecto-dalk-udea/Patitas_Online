@@ -12,8 +12,8 @@ Crear un programa en Python que permita registrar y organizar las PQRS que recib
 
 ## Beneficios 
 
-*Tener la información de las PQRS más organizada.
-*Facilitar el registro de las solicitudes.
-*permitir consultar la información guardada
-*identificar cada solicitud mediante su número de radicado
-*reducir el manejo de la información solamente en papel 
+* Tener la información de las PQRS más organizada.
+* Facilitar el registro de las solicitudes.
+* permitir consultar la información guardada
+* identificar cada solicitud mediante su número de radicado
+* reducir el manejo de la información solamente en papel 
