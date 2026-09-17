@@ -20,6 +20,23 @@ El proyecto Patitas Online será desarrollado mediante una planificación organi
 
 ## 7.2 Cronograma – Diagrama de Gantt
 
+| Actividad | Responsable | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 | S10 | S11 | S12 | S13 | S14 | S15 | S16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Análisis y requisitos | Todos | 🟦 | 🟦 | | | | | | | | | | | | | | | |
+| Organización del proyecto | Daniel | 🟦 | 🟦 | 🟦 | | | | | | | | | | | | | | |
+| Lógica principal del programa | Alejandra | | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | | | 🟦 | 🟦 | 🟦 | | | | 🟦 | |
+| Gestión de datos y archivos | Karina | | | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | | 🟦 | 🟦 | | | | | 🟦 | |
+| README | Lyzt | 🟦 | 🟦 | 🟦 | 🟦 | | | | 🟦 | | | | | | | 🟦 | |
+| Licencia | Lyzt | | | 🟦 | 🟦 | | | | | | | | | | 🟦 | | |
+| Elaboración de actas | Alejandra | 🟦 | 🟦 | | | | | | | | | | | | | | |
+| Pruebas y correcciones | Todos | | | | | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 |
+| Documentación final | Daniel | | | | | | | | | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | 🟦 | |
+| Preparación de presentación | Lyzt | | | | | | | | | | | | | 🟦 | 🟦 | 🟦 | 🟦 |
+| Revisión general | Todos | | | | | | | | 🟦 | | | | | | | 🟦 | 🟦 |
+| *Entrega 1* | Todos | | | | | | | | 🟨 | | | | | | | | |
+| *Entrega 2* | Todos | | | | | | | | | | | | | | | 🟨 | |
+| *Presentación final* | Todos | | | | | | | | | | | | | | | | 🟨 |
+
 ## 7.3 Presupuesto
 
 El presupuesto del proyecto Patitas Online se establece con base en el
