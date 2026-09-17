@@ -20,6 +20,10 @@ El proyecto Patitas Online será desarrollado mediante una planificación organi
 
 ## 2. Cronograma – Diagrama de Gantt
 
+En el siguiente diagrama de Gantt 
+presenta la distribución de las principales actividades del proyecto Patitas Online durante las 16 semaans del semestre.
+Se indican los responsables y el periodo estimado para realizar cada actividad
+
 | Actividad | Responsable | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 | S10 | S11 | S12 | S13 | S14 | S15 | S16 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Análisis y requisitos | Todos | 🟦 | 🟦 | | | | | | | | | | | | | | | |
