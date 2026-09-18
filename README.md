@@ -1,6 +1,8 @@
 # Patitas Online
 
-Patitas Online es un programa creado para ayudar a MEPEGA con el registro y manejo de las PQRS ( Peticiones, Quejas, Reclamos y Sugerencias).
+<p align="center">
+  <img src="images/logo-patitas-online.png" alt="Logo Patitas Online" width="250">
+</p>
 
 ## Descripción del proyecto
 
