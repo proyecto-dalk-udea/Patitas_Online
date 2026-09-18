@@ -1,7 +1,7 @@
 # Patitas Online
 
 <p align="center">
-  <img src="images/logo-patitas-online.png" alt="Logo Patitas Online" width="250">
+  <img src="./images/Logo-PatitasOnline.jpeg" alt="Logo Patitas Online" width="250">
 </p>
 
 ## Descripción del proyecto
