@@ -35,7 +35,7 @@ El sistema debe permitir consultar una PQRS y conocer su estado.
 * RF11. Generar estadísticas:                                                             
 El sistema debe generar el promedio de días de respuesta y cinco estadísticas adicionales sobre las PQRS registradas.
 
-## Requisitos no funcionales
+## Requisitos no funcionales:
  
 * RNF01. Rendimiento:                                                    
 El sistema debe realizar las operaciones de registro, consulta y generación de estadísticas de manera ágil, sin generar demoras innecesarias.
