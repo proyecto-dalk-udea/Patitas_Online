@@ -20,6 +20,6 @@ Soy una persona amable, perseverante, me gusta aprender y asumir nuevos retos. T
 32 años de edad, Seccional Bajo Cauca, 5to semestre de Ingeniería Industrial.
 Soy una persona responsable y comprometida. Me caracterizo por mi capacidad de aprendizaje, empatía, paciencia y facilidad para trabajar en equipo.
 
-* Lyzt Dayan Simanca Saldarriga:
+* Lyzt Dayana Simanca Saldarriga:
 19 años de edad, Seccional bajo Cauca, 5to semestre de Ingeniería Industrial.
 Me considero una persona proactiva y muy disciplinada, responsable para trabajar en grupo
