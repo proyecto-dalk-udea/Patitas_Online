@@ -1,2 +1,0 @@
-# Licencia
-MIT License - 2026
