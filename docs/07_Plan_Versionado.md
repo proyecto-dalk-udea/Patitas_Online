@@ -28,4 +28,4 @@ A continuación, se presentan las versiones planificadas de acuerdo con las acti
 
 En la semana 15 se realizará la entrega de la versión final 1.0 del sistema MEPEGA, con las funcionalidades implementadas y las pruebas correspondientes. En la semana 16 se llevará a cabo la sustentación del proyecto y la presentación del software desarrollado.
 
-El versionado permitirá identificar los avances realizados, conservar un historial de los cambios y mantener organizada la evolución del sistema durante todo el desarrollo del proyecto.
+Esta versión permitirá identificar los avances realizados, conservar un historial de los cambios y mantener organizada la evolución del sistema durante todo el desarrollo del proyecto.
