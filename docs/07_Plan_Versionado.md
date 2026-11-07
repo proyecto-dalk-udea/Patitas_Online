@@ -8,11 +8,11 @@ Este plan se establece de acuerdo con las actividades y el cronograma definidos 
 
 | Versión | Semana | Descripción del avance |
 |---|---|---|
-| 0.1 | Semana 1 | Inicio del proyecto, análisis del problema, identificación de las necesidades y organización inicial de la documentación. |
-| 0.2 | Semana 2 | Definición de los requisitos y organización general de las carpetas del proyecto. Inicio del desarrollo de la lógica principal del programa. |
-| 0.3 | Semana 3 | Elaboración de las actas del equipo, organización de los archivos del proyecto e inicio de la gestión de datos de prueba. |
-| 0.4 | Semana 4 | Continuación del desarrollo de la lógica principal y organización de los datos. Avance en el README y la documentación del proyecto. |
-| 0.5 | Semana 5 | Desarrollo de la lógica del programa, preparación de datos de prueba e inicio de las pruebas y correcciones. |
+| 0,1 | Semana 1 | Inicio del proyecto, análisis del problema, identificación de las necesidades y organización inicial de la documentación. |
+| 0,2 | Semana 2 | Definición de los requisitos y organización general de las carpetas del proyecto. Inicio del desarrollo de la lógica principal del programa. |
+| 0,3 | Semana 3 | Elaboración de las actas del equipo, organización de los archivos del proyecto e inicio de la gestión de datos de prueba. |
+| 0,4 | Semana 4 | Continuación del desarrollo de la lógica principal y organización de los datos. Avance en el README y la documentación del proyecto. |
+| 0,5 | Semana 5 | Desarrollo de la lógica del programa, preparación de datos de prueba e inicio de las pruebas y correcciones. |
 | 0.6 | Semana 6 | Continuación de la programación, organización de los archivos de datos y revisión del funcionamiento del programa. |
 | 0.7 | Semana 7 | Finalización de las actividades iniciales de gestión de datos y preparación de los documentos correspondientes a la primera entrega. |
 | 0.8 | Semana 8 | Primera entrega del proyecto, correspondiente a los puntos 1 al 7. Revisión general de los avances y ajustes necesarios. |
