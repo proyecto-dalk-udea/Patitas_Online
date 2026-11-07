@@ -8,7 +8,7 @@ Este plan se establece de acuerdo con las actividades y el cronograma definidos 
 
 | Versión | Semana | Descripción del avance |
 |---|---|---|
-| 0,1 | Semana 1 | Inicio del proyecto, análisis del problema, identificación de las necesidades y organización inicial de la documentación. |
+| 0. 1 | Semana 1 | Inicio del proyecto, análisis del problema, identificación de las necesidades y organización inicial de la documentación. |
 | 0,2 | Semana 2 | Definición de los requisitos y organización general de las carpetas del proyecto. Inicio del desarrollo de la lógica principal del programa. |
 | 0,3 | Semana 3 | Elaboración de las actas del equipo, organización de los archivos del proyecto e inicio de la gestión de datos de prueba. |
 | 0,4 | Semana 4 | Continuación del desarrollo de la lógica principal y organización de los datos. Avance en el README y la documentación del proyecto. |
