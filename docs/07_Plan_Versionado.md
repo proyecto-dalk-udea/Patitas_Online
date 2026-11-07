@@ -1,4 +1,4 @@
-# 8. Plan de versionado
+# Plan de versionado
 
 El plan de versionado del proyecto Patitas Online permite llevar un registro organizado de los avances realizados durante el desarrollo del software. Cada versión representa un cambio o procedimiento relevante, desde la planificación inicial hasta la entrega final del proyecto.
 
