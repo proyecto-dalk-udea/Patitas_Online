@@ -129,32 +129,83 @@ class c_main:
         print("\nPQRS registrada correctamente.")
         self.imprimir_comprobante(datos)
 
-    def imprimir_comprobante(self, datos):
-        linea = "-" * 120
+ def imprimir_comprobante(self, datos):
+        import os
+        import textwrap
 
-        print("\n" + linea)
-        print("PATITAS ONLINE".center(120))
-        print("COMPROBANTE DE REGISTRO DE PQRS".center(120))
-        print(linea)
-        print("Número de registro:", datos[0])
-        print("Fecha de registro:", datos[9])
-        print("Estado:", datos[15])
-        print("Fecha límite de respuesta:", datos[16])
-        print(linea)
-        print("DATOS DEL SOLICITANTE".center(120))
-        print("Nombre:", datos[1])
-        print("Documento:", datos[2], datos[3])
-        print("Teléfono:", datos[5])
-        print("Correo:", datos[6])
-        print("Dirección:", datos[7] if datos[7] else "N/A")
-        print(linea)
-        print("CLASIFICACIÓN DE LA SOLICITUD".center(120))
-        print("Tipo:", datos[8])
-        print("Canal:", datos[10])
-        print("Mascota:", datos[13])
-        print("Campus:", datos[14])
-        print("Asunto:", datos[11])
-        print(linea)
+        ancho = 120
+        contenido = []
+
+        # Crear los bordes del comprobante
+        borde = "+" + "-" * (ancho - 2) + "+"
+
+        def agregar_texto(texto="", centrar=False):
+            texto = str(texto)
+
+            for parte in textwrap.wrap(
+                texto, width=ancho - 4,
+                break_long_words=True,
+                break_on_hyphens=False
+            ) or [""]:
+
+                if centrar:
+                    linea = "| " + parte.center(ancho - 4) + " |"
+                else:
+                    linea = "| " + parte.ljust(ancho - 4) + " |"
+
+                contenido.append(linea)
+
+        contenido.append(borde)
+        agregar_texto("PATITAS ONLINE", True)
+        agregar_texto("COMPROBANTE DE RADICACIÓN DE PQRS", True)
+        agregar_texto("Universidad de Antioquia", True)
+        contenido.append(borde)
+
+        agregar_texto("DATOS DEL RADICADO", True)
+        agregar_texto("Número de registro: " + datos[0])
+        agregar_texto("Fecha de radicación: " + datos[9])
+        agregar_texto("Estado: " + datos[15])
+        agregar_texto("Fecha máxima de respuesta: " + datos[16])
+        contenido.append(borde)
+
+        agregar_texto("DATOS DEL SOLICITANTE", True)
+        agregar_texto("Nombre: " + datos[1])
+        agregar_texto("Documento: " + datos[2] + " " + datos[3])
+        agregar_texto("Teléfono: " + datos[4] + " - " + datos[5])
+        agregar_texto("Correo: " + datos[6])
+        agregar_texto("Dirección: " + (datos[7] or "N/A"))
+        contenido.append(borde)
+
+        agregar_texto("CLASIFICACIÓN DE LA SOLICITUD", True)
+        agregar_texto("Tipo: " + datos[8])
+        agregar_texto("Canal: " + datos[10])
+        agregar_texto("Mascota: " + datos[13])
+        agregar_texto("Campus: " + datos[14])
+        agregar_texto("Asunto: " + datos[11])
+        contenido.append(borde)
+
+        # Crear la carpeta de comprobantes
+        ruta = os.path.join(
+            os.path.dirname(__file__), "..",
+            "data", "comprobantes"
+        )
+
+        os.makedirs(ruta, exist_ok=True)
+
+        nombre_archivo = (
+            "Radicado_" + datos[8] + "_" + datos[0] + ".txt"
+        )
+
+        archivo = os.path.join(ruta, nombre_archivo)
+
+        # Guardar el comprobante en formato TXT
+        with open(archivo, "w", encoding="utf-8") as documento:
+            documento.write("\n".join(contenido) + "\n")
+
+        # Mostrar el comprobante en pantalla
+        print("\n" + "\n".join(contenido))
+        print("\nComprobante guardado correctamente.")
+        print("Archivo:", archivo)
 
     def consultar_pqrs(self):
         tipos = ["Peticion", "Queja", "Reclamo", "Sugerencia"]
