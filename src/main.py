@@ -129,7 +129,7 @@ class c_main:
         print("\nPQRS registrada correctamente.")
         self.imprimir_comprobante(datos)
 
- def imprimir_comprobante(self, datos):
+ def    imprimir_comprobante(self, datos):
         import os
         import textwrap
 
@@ -207,7 +207,7 @@ class c_main:
         print("\nComprobante guardado correctamente.")
         print("Archivo:", archivo)
 
- def consultar_pqrs(self):
+ def    consultar_pqrs(self):
         tipos = ["Peticion", "Queja", "Reclamo", "Sugerencia"]
         encontrados = []
 
