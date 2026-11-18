@@ -207,18 +207,62 @@ class c_main:
         print("\nComprobante guardado correctamente.")
         print("Archivo:", archivo)
 
-    def consultar_pqrs(self):
+ def consultar_pqrs(self):
         tipos = ["Peticion", "Queja", "Reclamo", "Sugerencia"]
+        encontrados = []
 
+        print("\n===== CONSULTA GENERAL DE PQRS =====")
+
+        # Mostrar las solicitudes registradas
         for tipo in tipos:
             registros = self.archivos.consultar_pqrs(tipo)
 
             for registro in registros:
-                print("\nID:", registro[0])
+                encontrados.append(registro)
+
+                print("\n-----------------------------")
+                print("ID:", registro[0])
                 print("Tipo:", registro[8])
                 print("Nombre:", registro[1])
                 print("Asunto:", registro[11])
                 print("Estado:", registro[15])
+
+        if not encontrados:
+            print("No hay solicitudes registradas.")
+            return
+
+        # Preguntar si desea consultar un radicado
+        respuesta = input(
+            "\n¿Desea consultar un radicado específico? (S/N): "
+        ).strip().upper()
+
+        if respuesta != "S":
+            return
+
+        print("\nTIPOS DE SOLICITUD")
+        for i, tipo in enumerate(tipos, 1):
+            print(i, tipo)
+
+        opcion = input("Seleccione el tipo de PQRS: ")
+
+        if opcion not in ["1", "2", "3", "4"]:
+            print("Opción no válida.")
+            return
+
+        tipo_seleccionado = tipos[int(opcion) - 1]
+
+        identificacion = input(
+            "Ingrese el número de radicado: "
+        ).strip()
+
+        registros = self.archivos.consultar_pqrs(tipo_seleccionado)
+
+        for registro in registros:
+            if registro[0] == identificacion:
+                self.imprimir_comprobante(registro)
+                return
+
+        print("No se encontró el radicado solicitado.")
 
     def cambiar_estado(self):
         tipo = input("Tipo de PQRS (Peticion, Queja, Reclamo, Sugerencia): ").capitalize()
