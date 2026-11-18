@@ -98,6 +98,7 @@ class c_main:
             "Campus Medellín - Sede de Posgrado",
             "Campus Medellín - Edificio San Ignacio",
             "Campus Medellín - Antigua Escuela de Derecho",
+            "Campus Medellín - Edificio Antioquia",
             "Campus Medellín - Casas Patrimoniales",
             "Campus Medellín - Edificio de Extensión"
         ]
